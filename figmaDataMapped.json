@@ -1,0 +1,451 @@
+[
+  {
+    "name": "header",
+    "id": "1:423",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "backgroundColor": "rgba(0.04313725605607033, 0.07450980693101883, 0.1568627506494522, 1)",
+      "paddingTop": 16,
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "height": 73
+    }
+  },
+  {
+    "name": "header-wrap",
+    "id": "I1:423;217:1627",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "justifyContent": "space-between",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 41
+    }
+  },
+  {
+    "name": "header-left",
+    "id": "I1:423;217:1628",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 41
+    }
+  },
+  {
+    "name": "logo",
+    "id": "I1:423;217:1629",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 41
+    }
+  },
+  {
+    "name": "menu",
+    "id": "I1:423;217:1634",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;217:1635",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;217:1636",
+    "parent": null,
+    "type": "span",
+    "text": "Весь материал",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 115,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;217:1637",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;217:1638",
+    "parent": null,
+    "type": "span",
+    "text": "Тексты",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 51,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;217:1639",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;217:1640",
+    "parent": null,
+    "type": "span",
+    "text": "Митапы",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 59,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;217:1641",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;217:1642",
+    "parent": null,
+    "type": "span",
+    "text": "Figma",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 46,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;217:1643",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;217:1644",
+    "parent": null,
+    "type": "span",
+    "text": "Заметки",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 63,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;487:5631",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;487:5632",
+    "parent": null,
+    "type": "span",
+    "text": "Дайджест",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 76,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "item",
+    "id": "I1:423;217:1645",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "alignItems": "center",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "vuesax/linear/search-normal",
+    "id": "I1:423;217:1646",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "menu-label",
+    "id": "I1:423;217:1647",
+    "parent": null,
+    "type": "span",
+    "text": "Поиск",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 47,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "header-right",
+    "id": "I1:423;217:1648",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "social",
+    "id": "I1:423;217:1649",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "row",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "social",
+    "id": "I1:423;217:1650",
+    "parent": null,
+    "type": "span",
+    "text": "youtube",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 62,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "social",
+    "id": "I1:423;217:1651",
+    "parent": null,
+    "type": "span",
+    "text": "vk",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 17,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "social",
+    "id": "I1:423;217:1652",
+    "parent": null,
+    "type": "span",
+    "text": "telegram",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 67,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "social",
+    "id": "I1:423;381:5967",
+    "parent": null,
+    "type": "span",
+    "text": "dprofile",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "inherit",
+      "width": 56,
+      "height": 20,
+      "fontFamily": "Gilroy",
+      "fontWeight": 500,
+      "fontSize": 16,
+      "textAlign": "LEFT",
+      "verticalAlign": "TOP",
+      "lineHeight": "20px"
+    }
+  },
+  {
+    "name": "vuesax",
+    "id": "I1:423;217:1653",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  },
+  {
+    "name": "vuesax/linear/sun",
+    "id": "I1:423;217:1653;217:1445",
+    "parent": null,
+    "type": "div",
+    "text": "",
+    "styles": {
+      "display": "flex",
+      "flexDirection": "column",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "height": 20
+    }
+  }
+]

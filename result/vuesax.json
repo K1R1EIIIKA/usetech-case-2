@@ -1,0 +1,78 @@
+{
+  "id": "I1:423;217:1653",
+  "name": "vuesax",
+  "type": "INSTANCE",
+  "scrollBehavior": "SCROLLS",
+  "blendMode": "PASS_THROUGH",
+  "absoluteBoundingBox": {
+    "x": 604,
+    "y": -10.5,
+    "width": 20,
+    "height": 20
+  },
+  "absoluteRenderBounds": {
+    "x": 604,
+    "y": -10.5,
+    "width": 20,
+    "height": 20
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutAlign": "INHERIT",
+  "layoutGrow": 0,
+  "layoutSizingHorizontal": "FIXED",
+  "layoutSizingVertical": "FIXED",
+  "clipsContent": false,
+  "background": [
+    {
+      "blendMode": "NORMAL",
+      "visible": false,
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "visible": false,
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "INSIDE",
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "effects": [],
+  "componentId": "1:101",
+  "componentProperties": {
+    "Property 1": {
+      "value": "linear",
+      "type": "VARIANT",
+      "boundVariables": {}
+    },
+    "Property 2": {
+      "value": "sun",
+      "type": "VARIANT",
+      "boundVariables": {}
+    }
+  },
+  "overrides": []
+}

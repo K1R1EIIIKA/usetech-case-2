@@ -1,0 +1,134 @@
+[
+  {
+    "name": "header",
+    "id": "1:423",
+    "children": ["I1:423;217:1628", "I1:423;217:1648"],
+    "parent": null,
+    "type": "div",
+    "styles": {
+      "backgroundColor": "rgba(0.04, 0.07, 0.15, 1)",
+      "paddingLeft": 24,
+      "paddingRight": 24,
+      "paddingTop": 16,
+      "paddingBottom": 16,
+      "width": 1200,
+      "height": 73
+    }
+  },
+  {
+    "name": "header-left",
+    "id": "I1:423;217:1628",
+    "children": ["logo", "menu"],
+    "parent": "1:423",
+    "type": "FRAME"
+  },
+  {
+    "name": "header-right",
+    "id": "I1:423;217:1648",
+    "children": ["social", "vuesax"],
+    "parent": "header",
+    "type": "FRAME"
+  },
+  {
+    "name": "logo",
+    "id": "logo",
+    "children": [],
+    "parent": "header-left"
+  },
+  {
+    "name": "menu",
+    "id": "menu",
+    "children": ["item-1", "item-2", "item-3", "item-4", "item-5", "item-6"],
+    "parent": "header-left"
+  },
+  {
+    "name": "item",
+    "id": "item-1",
+    "children": [],
+    "parent": "menu",
+    "text": "Тексты"
+  },
+  {
+    "name": "item",
+    "id": "item-2",
+    "children": [],
+    "parent": "menu",
+    "text": "Митапы"
+  },
+  {
+    "name": "item",
+    "id": "item-3",
+    "children": [],
+    "parent": "menu",
+    "text": "Figma"
+  },
+  {
+    "name": "item",
+    "id": "item-4",
+    "children": [],
+    "parent": "menu",
+    "text": "Заметки"
+  },
+  {
+    "name": "item",
+    "id": "item-5",
+    "children": [],
+    "parent": "menu",
+    "text": "Дайджест"
+  },
+  {
+    "name": "item",
+    "id": "item-6",
+    "children": ["search-normal", "menu-label"],
+    "parent": "menu"
+  },
+  {
+    "name": "search-normal",
+    "id": "search-normal",
+    "children": [],
+    "parent": "item-6"
+  },
+  {
+    "name": "menu-label",
+    "id": "menu-label",
+    "children": [],
+    "parent": "item-6",
+    "text": "Поиск"
+  },
+  {
+    "name": "social",
+    "id": "social",
+    "children": ["social-1", "social-2", "social-3", "social-4"],
+    "parent": "header-right"
+  },
+  {
+    "name": "vuesax",
+    "id": "vuesax",
+    "children": [],
+    "parent": "header-right"
+  },
+  {
+    "name": "social",
+    "id": "social-1",
+    "text": "youtube",
+    "parent": "social"
+  },
+  {
+    "name": "social",
+    "id": "social-2",
+    "text": "vk",
+    "parent": "social"
+  },
+  {
+    "name": "social",
+    "id": "social-3",
+    "text": "telegram",
+    "parent": "social"
+  },
+  {
+    "name": "social",
+    "id": "social-4",
+    "text": "dprofile",
+    "parent": "social"
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "I1:423;217:1648",
+  "name": "header-right",
+  "type": "FRAME",
+  "scrollBehavior": "SCROLLS",
+  "blendMode": "PASS_THROUGH",
+  "absoluteBoundingBox": {
+    "x": 306,
+    "y": -10.5,
+    "width": 318,
+    "height": 20
+  },
+  "absoluteRenderBounds": {
+    "x": 306,
+    "y": -10.5,
+    "width": 318,
+    "height": 20
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutAlign": "INHERIT",
+  "layoutGrow": 0,
+  "layoutSizingHorizontal": "HUG",
+  "layoutSizingVertical": "HUG",
+  "clipsContent": false,
+  "background": [],
+  "fills": [],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "INSIDE",
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "layoutMode": "HORIZONTAL",
+  "itemSpacing": 48,
+  "layoutWrap": "NO_WRAP",
+  "effects": []
+}

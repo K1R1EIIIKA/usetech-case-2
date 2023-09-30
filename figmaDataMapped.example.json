@@ -1,0 +1,39 @@
+{
+  "id": "1:423",
+  "name": "header",
+  "type": "INSTANCE",
+  "absoluteBoundingBox": {
+    "x": -552,
+    "y": -37,
+    "width": 1200,
+    "height": 73
+  },
+  "absoluteRenderBounds": {
+    "x": -552,
+    "y": -37,
+    "width": 1200,
+    "height": 73
+  },
+  "background": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 0.04313725605607033,
+        "g": 0.07450980693101883,
+        "b": 0.1568627506494522,
+        "a": 1
+      }
+    }
+  ],
+  "backgroundColor": {
+    "r": 0.04313725605607033,
+    "g": 0.07450980693101883,
+    "b": 0.1568627506494522,
+    "a": 1
+  },
+  "itemSpacing": 16,
+  "paddingLeft": 24,
+  "paddingRight": 24,
+  "paddingTop": 16,
+}

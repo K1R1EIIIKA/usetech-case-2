@@ -1,0 +1,71 @@
+{
+  "id": "I1:423;217:1636",
+  "name": "menu-label",
+  "type": "TEXT",
+  "scrollBehavior": "SCROLLS",
+  "blendMode": "PASS_THROUGH",
+  "absoluteBoundingBox": {
+    "x": -377,
+    "y": -10.5,
+    "width": 115,
+    "height": 20
+  },
+  "absoluteRenderBounds": {
+    "x": null,
+    "y": null,
+    "width": null,
+    "height": null
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutAlign": "INHERIT",
+  "layoutGrow": 0,
+  "layoutSizingHorizontal": "HUG",
+  "layoutSizingVertical": "HUG",
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 0.8627451062202454,
+        "g": 0.0784313753247261,
+        "b": 0.23529411852359772,
+        "a": 1
+      }
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "OUTSIDE",
+  "styles": {
+    "fill": "1:128",
+    "text": "1:115"
+  },
+  "effects": [],
+  "characters": "Весь материал",
+  "style": {
+    "fontFamily": "Gilroy",
+    "fontPostScriptName": "Gilroy-Medium",
+    "fontWeight": 500,
+    "textAutoResize": "WIDTH_AND_HEIGHT",
+    "fontSize": 16,
+    "textAlignHorizontal": "LEFT",
+    "textAlignVertical": "TOP",
+    "letterSpacing": 0,
+    "lineHeightPx": 20,
+    "lineHeightPercent": 106.20220947265625,
+    "lineHeightPercentFontSize": 125,
+    "lineHeightUnit": "PIXELS"
+  },
+  "layoutVersion": 3,
+  "characterStyleOverrides": [],
+  "styleOverrideTable": {},
+  "lineTypes": [
+    "NONE"
+  ],
+  "lineIndentations": [
+    0
+  ]
+}

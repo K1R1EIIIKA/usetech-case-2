@@ -1,0 +1,71 @@
+{
+  "id": "I1:423;217:1650",
+  "name": "social",
+  "type": "TEXT",
+  "scrollBehavior": "SCROLLS",
+  "blendMode": "PASS_THROUGH",
+  "absoluteBoundingBox": {
+    "x": 306,
+    "y": -10.5,
+    "width": 62,
+    "height": 20
+  },
+  "absoluteRenderBounds": {
+    "x": 306.12799072265625,
+    "y": -6.700000762939453,
+    "width": 60.437255859375,
+    "height": 14.512001037597656
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutAlign": "INHERIT",
+  "layoutGrow": 0,
+  "layoutSizingHorizontal": "HUG",
+  "layoutSizingVertical": "HUG",
+  "fills": [
+    {
+      "blendMode": "NORMAL",
+      "type": "SOLID",
+      "color": {
+        "r": 1,
+        "g": 1,
+        "b": 1,
+        "a": 1
+      }
+    }
+  ],
+  "strokes": [],
+  "strokeWeight": 1,
+  "strokeAlign": "OUTSIDE",
+  "styles": {
+    "fill": "1:118",
+    "text": "1:115"
+  },
+  "effects": [],
+  "characters": "youtube",
+  "style": {
+    "fontFamily": "Gilroy",
+    "fontPostScriptName": "Gilroy-Medium",
+    "fontWeight": 500,
+    "textAutoResize": "WIDTH_AND_HEIGHT",
+    "fontSize": 16,
+    "textAlignHorizontal": "LEFT",
+    "textAlignVertical": "TOP",
+    "letterSpacing": 0,
+    "lineHeightPx": 20,
+    "lineHeightPercent": 106.20220947265625,
+    "lineHeightPercentFontSize": 125,
+    "lineHeightUnit": "PIXELS"
+  },
+  "layoutVersion": 3,
+  "characterStyleOverrides": [],
+  "styleOverrideTable": {},
+  "lineTypes": [
+    "NONE"
+  ],
+  "lineIndentations": [
+    0
+  ]
+}

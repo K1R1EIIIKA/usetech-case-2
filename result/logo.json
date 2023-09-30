@@ -1,0 +1,211 @@
+{
+  "id": "I1:423;217:1629",
+  "name": "logo",
+  "type": "FRAME",
+  "scrollBehavior": "SCROLLS",
+  "blendMode": "PASS_THROUGH",
+  "children": [
+    {
+      "id": "I1:423;217:1630",
+      "name": "МАМКИН",
+      "type": "VECTOR",
+      "scrollBehavior": "SCROLLS",
+      "blendMode": "PASS_THROUGH",
+      "absoluteBoundingBox": {
+        "x": -526.65625,
+        "y": -20.60400390625,
+        "width": 91.12014770507812,
+        "height": 15.346693992614746
+      },
+      "absoluteRenderBounds": {
+        "x": -526.65625,
+        "y": -20.60400390625,
+        "width": 91.12014770507812,
+        "height": 15.346693992614746
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1.3702404499053955,
+      "strokeAlign": "OUTSIDE",
+      "styles": {
+        "fill": "1:118"
+      },
+      "effects": []
+    },
+    {
+      "id": "I1:423;217:1631",
+      "name": "МАМКИН",
+      "type": "VECTOR",
+      "scrollBehavior": "SCROLLS",
+      "rotation": -3.1415925661670236,
+      "blendMode": "PASS_THROUGH",
+      "absoluteBoundingBox": {
+        "x": -509.9872741699219,
+        "y": -20.604019165039062,
+        "width": 14.908233642578125,
+        "height": 15.346694946289062
+      },
+      "absoluteRenderBounds": {
+        "x": -509.98724365234375,
+        "y": -20.604019165039062,
+        "width": 14.908203125,
+        "height": 15.346694946289062
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1.3702404499053955,
+      "strokeAlign": "OUTSIDE",
+      "styles": {
+        "fill": "1:118"
+      },
+      "effects": []
+    },
+    {
+      "id": "I1:423;217:1632",
+      "name": "ДИЗАЙНЕР",
+      "type": "VECTOR",
+      "scrollBehavior": "SCROLLS",
+      "blendMode": "PASS_THROUGH",
+      "absoluteBoundingBox": {
+        "x": -527.6428833007812,
+        "y": -0.171051025390625,
+        "width": 110.16134643554688,
+        "height": 18.5914249420166
+      },
+      "absoluteRenderBounds": {
+        "x": -527.6428833007812,
+        "y": -0.171051025390625,
+        "width": 110.16134643554688,
+        "height": 18.5914249420166
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 1,
+            "g": 1,
+            "b": 1,
+            "a": 1
+          }
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1.3702404499053955,
+      "strokeAlign": "OUTSIDE",
+      "styles": {
+        "fill": "1:118"
+      },
+      "effects": []
+    },
+    {
+      "id": "I1:423;217:1633",
+      "name": "ДИЗАЙНЕР",
+      "type": "VECTOR",
+      "scrollBehavior": "SCROLLS",
+      "blendMode": "PASS_THROUGH",
+      "absoluteBoundingBox": {
+        "x": -466.708251953125,
+        "y": 16.995330810546875,
+        "width": 6.5771484375,
+        "height": 2.850099563598633
+      },
+      "absoluteRenderBounds": {
+        "x": -466.708251953125,
+        "y": 16.995330810546875,
+        "width": 6.5771484375,
+        "height": 2.850099563598633
+      },
+      "constraints": {
+        "vertical": "TOP",
+        "horizontal": "LEFT"
+      },
+      "fills": [
+        {
+          "blendMode": "NORMAL",
+          "type": "SOLID",
+          "color": {
+            "r": 0.8627451062202454,
+            "g": 0.0784313753247261,
+            "b": 0.23529411852359772,
+            "a": 1
+          }
+        }
+      ],
+      "strokes": [],
+      "strokeWeight": 1.3702404499053955,
+      "strokeAlign": "OUTSIDE",
+      "styles": {
+        "fill": "1:125"
+      },
+      "effects": []
+    }
+  ],
+  "absoluteBoundingBox": {
+    "x": -528,
+    "y": -21,
+    "width": 111,
+    "height": 41
+  },
+  "absoluteRenderBounds": {
+    "x": -528,
+    "y": -21,
+    "width": 111,
+    "height": 41
+  },
+  "constraints": {
+    "vertical": "TOP",
+    "horizontal": "LEFT"
+  },
+  "layoutAlign": "INHERIT",
+  "layoutGrow": 0,
+  "layoutSizingHorizontal": "FIXED",
+  "layoutSizingVertical": "FIXED",
+  "clipsContent": false,
+  "background": [],
+  "fills": [],
+  "strokes": [],
+  "strokeWeight": 1.3702404499053955,
+  "strokeAlign": "INSIDE",
+  "backgroundColor": {
+    "r": 0,
+    "g": 0,
+    "b": 0,
+    "a": 0
+  },
+  "effects": []
+}
