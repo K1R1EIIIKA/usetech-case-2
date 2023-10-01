@@ -19,7 +19,7 @@ dotenv.config();
 // Tune model
 
   await getFigmaProjectDataAsJsonl();
-  // await useFineTuning();
+  await useFineTuning();
 
 // 5. Build the app to render everything in one file
 })();
