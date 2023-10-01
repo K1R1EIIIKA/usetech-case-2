@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const Logo = styled.div`
-  background-color: rgba(0, 0, 0, 0);
   width: 111px;
   height: 41px;
-  position: relative;
+  background-color: rgba(0, 0, 0, 0); // Use the provided background color
+  position: relative; // Set the position to relative as it's a frame
 `;

@@ -6,5 +6,5 @@ export const MenuLabel = styled.p`
   font-size: 16px;
   text-align: left;
   line-height: 20px;
-  color: #fff; // Assuming the text color is white
+  color: #ffffff; // This is the text color
 `;
